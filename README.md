@@ -1,6 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.tenor.com/dkA_gmiJDfUAAAAC/wizard-magic-cat.gif" alt="Rinite">
+</p>
+
+
 
 <!--
+### Hi there 👋
+
 **CarolayneMR/CarolayneMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
